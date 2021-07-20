@@ -13,4 +13,9 @@ SUMMARY: {refactor_card_design, optional_card_visibility, html_element_changes_o
     <img src="https://github.com/jishanshaikh4/personal-branding/blob/main/complete-branding-card/complete-branding-card1.png" width=600, height=350 />
     <img src="https://github.com/jishanshaikh4/personal-branding/blob/main/complete-branding-card/complete-branding-card2.png" width=600, height=350 />
   </details>
+  
+  <details>
+    <summary>alt?</summary>
+    <img src="https://user-images.githubusercontent.com/30091032/126403924-2d9ebb33-6443-4915-afa3-397fcd29a5e4.gif" width=600, height=800 />
+  </details>
 </html>
